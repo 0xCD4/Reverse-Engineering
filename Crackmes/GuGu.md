@@ -153,6 +153,6 @@ You can also check which syscalls have been used:
    0x00001244 <+135>:	lea    eax,[ebx-0x1fd3]
 ```
 
-We have successfully reverse the file. This challenge was enough to understand how to debug and use ltrace command. The most important part was to escape the special symbolic characters.
+We have successfully reversed this file. This challenge was enough to understand how to debug and use ltrace command. The most important part was to escape the special symbolic characters.
 
 Thank you for spending your valuable time to read this blog. More RE challenges will be written (easy,medium,hard). See you soon!!!    
