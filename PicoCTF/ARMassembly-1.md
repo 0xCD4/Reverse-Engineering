@@ -167,7 +167,7 @@ w0 -> *(stack+24) = 3
 
 ## The final part 
 
-Oke we have analyzed the file correctly, and evertyhing is being written well. We can now use our written note to solve the question properly.
+Oke we have analyzed the file correctly, and everything is being written well. We can now use our written note to solve the question properly.
 
 
 ```asm
@@ -195,7 +195,7 @@ The final part of this function:
 
 ldr means in assembly ->  Load a data in specified address (label) into register. We do not anything about the user's input we can call as *x* (stack+12 = x)
 
-we need to substract from 3370.
+we need to subtract from 3370.
 
 the final result should be 3370-x
 
