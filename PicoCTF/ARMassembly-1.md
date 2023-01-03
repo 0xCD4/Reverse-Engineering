@@ -193,7 +193,7 @@ The final part of this function:
 
 ```
 
-ldr means in assembly ->  Load a data in specified address (label) into register. We do not anything about the user's input we can call as *x* (stack+12 = x)
+ldr means in assembly ->  Load a data in specified address (label) into register. We do not anything know about the user's input we can call as *x* (stack+12 = x)
 
 we need to subtract from 3370.
 
