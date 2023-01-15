@@ -416,7 +416,7 @@ gdb-peda$
 
 ## The flag
 
-Wohoee!! you did it !! we can get the flag to by reading the registers.
+Wohoee!! you did it !! we can get the flag by reading the registers.
 
 The flag `picoCTF{dyn4m1c_4n4ly1s_1s_5up3r_us3ful_14bfa700}`
 
