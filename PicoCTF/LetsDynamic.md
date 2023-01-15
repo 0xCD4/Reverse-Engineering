@@ -423,3 +423,5 @@ The flag `picoCTF{dyn4m1c_4n4ly1s_1s_5up3r_us3ful_14bfa700}`
 I hope you had fun with this challenge. More write-ups/blogs will be written in this repository. Thank you so much for spending your valuable time to read this write-up. 
 
 Ahmet | Reverse-Engineer | Binary-Exploitation | Mathematician
+
+![image](https://user-images.githubusercontent.com/116346668/212536288-1bf3e23a-b326-4ed9-a195-9a61b01e6ab2.png)
