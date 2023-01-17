@@ -129,7 +129,7 @@ As we can see from this source code that we are not able to read the instruction
 
 ## Using gdb
 
-GDB would always be useful to disassemble functions. We will get started to disassemble main fucnctions. In orde to view written functions you can use:
+GDB would always be useful to disassemble functions. We will get started to disassemble main functions. In order to view written functions you can use:
 
 ```asm
 gdb-peda$ info functions
@@ -205,7 +205,7 @@ The C library function int memcmp(const void *str1, const void *str2, size_t n))
 
     n − This is the number of bytes to be compared.
 ```
-Awesome. I reckon that it takes input from the user and compare it with being holded string in the memory. In order to run this file, we need to return to the terninal.
+Awesome. I reckon that it takes input from the user and compare it with being holded string in the memory. In order to run this file, we need to return this file in the terninal.
 
 
 
